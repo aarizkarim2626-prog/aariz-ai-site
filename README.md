@@ -3,6 +3,7 @@
 A small chat site backed by Groq's `llama-3.1-8b-instant`. The API key lives
 only on the server (`api/chat.js`) — the browser never sees it.
 
+
 ## Deploy on Vercel (free)
 
 **Option A — no terminal, just the browser:**
